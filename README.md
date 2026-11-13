@@ -18,7 +18,7 @@
 
 <div align="left">
     <p>
-        <strong>webview-lib</strong> opens a native window and hosts the operating system's own web engine in it (WebView2 on Windows, WKWebView on macOS, WebKitGTK on Linux), through raw FFI with documented safety. It is how LexerSketch Studio becomes a desktop app without Electron or any rented GUI framework.
+        <strong>webview-lib</strong> opens a native window and hosts the operating system's own web engine in it (WebView2 on Windows, WKWebView on macOS, WebKitGTK on Linux), through raw FFI with documented safety. It is how the editor tool becomes a desktop app without Electron or any rented GUI framework.
     </p>
     <br>
     <hr>
